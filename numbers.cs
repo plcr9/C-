@@ -8,7 +8,7 @@ namespace BusinessSolution
     {
       //calculating net income
       double revenue = 853024.45;
-      double expenses - 438374.11;
+      double expenses - 438373.11;
       double netIncome - revenue - expenses;
 
       Console.WriteLine(netIncome);
