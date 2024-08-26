@@ -7,7 +7,7 @@ namespace BusinessSolution
     static void Main(string[] args)
     {
       //calculating net income
-      double revenue = 853023.45;
+      double revenue = 853024.45;
       double expenses - 438374.11;
       double netIncome - revenue - expenses;
 
