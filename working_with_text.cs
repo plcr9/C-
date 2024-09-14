@@ -17,6 +17,7 @@ namespace MadTeaParty
 
       Console.WriteLine(madTeaParty.Substring(findMarchHare));
       Console.WriteLine($"This scene is {storyLength} long.\n");
+      Console.WriteLine($"The term we're looking for is {toFind} and is located at index {findMarchHare}.");
 
     }
   }
