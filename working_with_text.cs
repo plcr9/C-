@@ -15,6 +15,9 @@ namespace MadTeaParty
       string findLowerCase = toFind.ToLower();
       int findMarchHare = madTeaParty.IndexOf(toFind);
 
+      Console.WriteLine(madTeaParty.Substring(findMarchHare));
+      Console.WriteLine($"This scene is {storyLength} long.\n");
+
     }
   }
 }
